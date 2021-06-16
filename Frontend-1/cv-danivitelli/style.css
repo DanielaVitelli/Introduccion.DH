@@ -1,0 +1,21 @@
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: #B0C4DE;
+}
+
+h1 {
+    background-color:#E0FFFF ;
+    text-transform: uppercase;
+}
+
+footer {
+    background-color:#E0FFFF ;
+}
+
+.formacion {
+    text-decoration: underline;
+}
+
+.experiencia {
+    text-decoration: underline;
+}
