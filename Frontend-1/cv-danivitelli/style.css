@@ -1,6 +1,11 @@
 body {
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 background-color: #B0C4DE;
+height: 100vh;
+}
+
+main {
+    height: 100vh;
 }
 
 h1 {
@@ -10,6 +15,7 @@ h1 {
 
 footer {
     background-color:#E0FFFF ;
+    
 }
 
 .formacion {

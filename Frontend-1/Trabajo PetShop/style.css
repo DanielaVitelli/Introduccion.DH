@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo {
+    background-color: #FFA500;
+}
+
+span {
+    padding-left: 15px;
+
+}
+.navegacion {
+    background-color:#FFA500 ;
+}
+
+.lo-ultimo {
+    background-color: #3C2313;
+}
+
+.destacado {
+    color:#3C2313;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.texo-marron {
+    color:#3C2313;
+    font-size: 20px;
+    font-weight: bold;
+}
+
