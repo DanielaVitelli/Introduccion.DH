@@ -1,1 +1,35 @@
-body
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    width: 1041px;
+    height: 459px;
+    top:352px;
+    left: 225px;
+    padding:50px 50px 50px 50px;
+}
+
+h1 {
+    background-color: #D3D3D3;
+    text-transform: uppercase;
+    color: #005677;
+}
+
+.batman {
+    background-color: #E5E5E5;
+}
+h3 {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase;
+}
+
+.redes {
+    background-color: #005677;
+    color: #FFFFFF;
+}
+
+.datos {
+    font-style: italic;
+}
